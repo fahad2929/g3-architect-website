@@ -217,7 +217,7 @@ main > section{
         margin-left: 20px;
     }
 .footer{
-    margin: 5px;
+    margin: 0px;
 }
 }
 /* medium seize device */
@@ -237,5 +237,8 @@ main > section{
     #experience-badge{
         margin-top: 20px;
         margin-left: 20px;
+    }
+    .footer{
+        margin: 10px;
     }
 }
